@@ -1,1 +1,1 @@
-# Django-ReactJS-Assignment-
+# Django-ReactJS-Assignment
